@@ -36,7 +36,6 @@ meu-projeto/
 └─ org/
 └─ example/
 └─ CalculatorTest.java
----
 
 ## 🚀 Como Executar
 
