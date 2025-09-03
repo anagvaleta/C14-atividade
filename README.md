@@ -42,4 +42,4 @@ meu-projeto/
 ### 🔹 Rodar a aplicação principal
 
 ```bash
-mvn compile exec:java -Dexec.mainClass="org.example.Main"
+mvn compile exec:java
