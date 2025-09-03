@@ -26,13 +26,16 @@ meu-projeto/
 ├─ pom.xml
 └─ src/
 ├─ main/
-│ └─ java/org/example/
+│ └─ java/
+│ └─ org/
+│ └─ example/
 │ ├─ Calculator.java
 │ └─ Main.java
 └─ test/
-└─ java/org/example/
+└─ java/
+└─ org/
+└─ example/
 └─ CalculatorTest.java
-
 ---
 
 ## 🚀 Como Executar
