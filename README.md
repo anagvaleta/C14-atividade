@@ -1,4 +1,3 @@
-# 🧮 Calculadora - Projeto Maven com Testes Unitários
 
 ![Java](https://img.shields.io/badge/Java-17-blue?logo=java)
 ![Maven](https://img.shields.io/badge/Maven-3.8.8-red?logo=apache-maven)
